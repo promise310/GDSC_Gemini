@@ -1,4 +1,5 @@
 // Importing the Google Generative AI module from the URL
+import {  } from "https://esm.run/@google/generative-ai";
 
 // Gemini API key
 
