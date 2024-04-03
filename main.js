@@ -29,8 +29,6 @@ async function getNutrition() {
 
 	// Check if the image represents food
 
-	// Display nutritional information
-
 	// Display the result value in the HTML
 	
 }
